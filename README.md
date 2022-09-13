@@ -1,2 +1,7 @@
 # alcohol-checker
-wear os 용 앱
+
+
+
+### Require
+- Unity  2022.1.16f1
+
